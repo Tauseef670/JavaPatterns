@@ -15,3 +15,14 @@ public class CharPattern2 {
     }
     
 }
+
+
+A
+
+BB
+
+CCC
+
+DDDD
+
+EEEEE
