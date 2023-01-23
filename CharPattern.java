@@ -16,3 +16,14 @@ public class CharPattern {
     }
     
 }
+
+
+A
+
+AB
+
+ABC
+
+ABCD
+
+ABCDE
