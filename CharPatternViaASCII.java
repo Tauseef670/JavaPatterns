@@ -17,3 +17,13 @@ public class CharPatternViaASCII {
     }
     
 }
+
+A
+
+AB
+
+ABC
+
+ABCD
+
+ABCDE
