@@ -15,3 +15,16 @@ public class NumberPattern2 {
     }
     
 }
+
+
+
+
+1
+
+22
+
+333
+
+4444
+
+55555
